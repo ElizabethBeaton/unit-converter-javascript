@@ -1,0 +1,54 @@
+body {
+  padding: 20px;
+  margin: 0;
+}
+.input-section {
+  background-color: #6b49f6;
+  text-align: center;
+  height: 300px;
+  border-radius: 10px 10px 0 0;
+}
+h1 {
+  color: #fff;
+  padding-top: 20px;
+}
+input {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  background-color: transparent;
+  border: 1px solid #fff;
+  padding: 54px 15px 30px;
+  border-radius: 6px;
+}
+::placeholder {
+  color: #fff;
+  font-size: 60px;
+}
+button {
+  margin-top: 20px;
+  padding: 10px 60px;
+  border-radius: 6px;
+  border: none;
+  font-size: 15px;
+}
+.unit-section {
+  background: #f4f4f4;
+  padding: 40px;
+  margin: 0;
+  border-radius: 0 0 10px 10px;
+}
+.unit {
+  background: #fff;
+  text-align: center;
+  border-radius: 6px;
+}
+h3 {
+  padding-top: 24px;
+  color: #5a537b;
+  font-size: 24px;
+}
+p {
+  padding-bottom: 30px;
+  font-size: 20px;
+}
